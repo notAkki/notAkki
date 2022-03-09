@@ -7,7 +7,7 @@
 ## Who Am I?
 - I'm just your everyday ~~below~~ average computer science and software enthusiast. 
 - I do a lot of competitive programming for fun and I'd say I'm fairly decent at it.
-  -  
+  -  Check out some of my CP profiles when I add them :)
 
 
 <!--
