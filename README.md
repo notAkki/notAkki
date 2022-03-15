@@ -10,7 +10,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=notAkki&show_icons=true&custom_title=My+Stats&include_all_commits=true&line_height=20&theme=tokyonight&bg_color=131315"></img>
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=420"></img>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=320"></img>
 </a>
 
 <br />
