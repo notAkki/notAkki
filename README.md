@@ -20,12 +20,34 @@
 <br />
 <br />
 <br />
+<br />
 
 ## Who Am I?
 - I'm just your everyday ~~below~~ average computer science, software, and tech enthusiast
 - I do a lot of competitive programming for fun and I can say that I am half decent at it
   -  Check out some of my CP profiles when I add them :)
-  
+  -  USACO
+  -  DMOJ
+  -  HackerRank
+  -  LeetCode
+  -  Code Forces
+- I enjoy playing minecraft ~~too much~~ IGN: akki__
+
+<br />
+
+## What I'm Learning
+- I am focussing on learning more advanced C++ to better my competitive programming skills
+- Javascript
+- HTML and CSS
+- Web development with Gatsby
+
+<br />
+
+## ~~Projects~~ Project
+- So far, I only have one major project on github: [ClickClack](https://github.com/notAkki/ClickClack): A simple website to test CPS (clicks per second)
+- I am working on building the necessary skills to build a personal portfolio website
+- More to come soon hopefully...
+
 <!--
 
 Here are some ideas to get you started:
