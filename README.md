@@ -48,6 +48,8 @@
 - I am working on building the necessary skills to build a personal portfolio website
 - More to come soon hopefully...
 
+<br />
+
 ## Organizations
 - I am part of the [Ladue Computer Science Club](https://github.com/LadueCS) which is a club based in St. Louis of high school students interested in computer science
 - I am a contributor on the current [Ladue CS Website](https://github.com/LadueCS/laduecs.github.io)
