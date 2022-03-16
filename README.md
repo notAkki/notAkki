@@ -7,10 +7,10 @@
 --->
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=notAkki&show_icons=true&custom_title=My+Stats&include_all_commits=true&line_height=20&theme=tokyonight&bg_color=131315"></img>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=notAkki&show_icons=true&custom_title=My+Stats&include_all_commits=true&line_height=20&theme=tokyonight"></img>
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=245"></img>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=245&theme=tokyonight"></img>
 </a>
 
 <br />
@@ -43,10 +43,14 @@
 
 <br />
 
-## ~~Projects~~ Project
+## Personal ~~Projects~~ Project
 - So far, I only have one major project on github: [ClickClack](https://github.com/notAkki/ClickClack): A simple website to test CPS (clicks per second)
 - I am working on building the necessary skills to build a personal portfolio website
 - More to come soon hopefully...
+
+## Organizations
+- I am part of the [Ladue Computer Science Club](https://github.com/LadueCS) which is a club based in St. Louis of high school students interested in computer science
+- I am a contributor on the current [Ladue CS Website](https://github.com/LadueCS/laduecs.github.io)
 
 <!--
 
