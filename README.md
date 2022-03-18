@@ -25,7 +25,7 @@
 ## Who Am I?
 - I'm just your everyday ~~below~~ average computer science, software, and tech enthusiast
 - I do a lot of competitive programming for fun and I can say that I am half decent at it. Check out some of my CP profiles when I add links for them :)
-  -  USACO
+  -  USACO and check out some [Select USACO Solutions](https://github.com/notAkki/Select-USACO-Solutions)
   -  DMOJ
   -  HackerRank
   -  LeetCode
