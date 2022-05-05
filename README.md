@@ -10,7 +10,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=notAkki&show_icons=true&custom_title=My+Stats&include_all_commits=true&line_height=20&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&icon_color=7d81ff&border_color=cfdaff"></img>
 </a>
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=243&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&border_color=cfdaff"></img>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=244&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&border_color=cfdaff"></img>
 </a>
 
 <br />
