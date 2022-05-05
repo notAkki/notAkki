@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Akshar
-> Competitive programmer, aspiring developer, and lifelong learner!
+# 👋 Hey, I'm Akshar
+> Competitive programmer and aspiring developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnotAkki&count_bg=%233139E7&title_bg=%23111113&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -21,6 +21,14 @@
 <br />
 <br />
 <br />
+
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-3661ff?style=flat-square&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-424bed?style=flat-square&logo=c%2B%2B&logoColor=white" />  
+  <img alt="github" src="https://img.shields.io/badge/-Github-2e3ad2?style=flat-square&logo=github&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-7639fa?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-9d1ced?style=flat-square&logo=html5&logoColor=white" />
+</p>
 
 ## Who Am I?
 - I'm just your everyday ~~below~~ average computer science, software, and tech enthusiast
