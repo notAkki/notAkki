@@ -47,7 +47,7 @@
 - I am focussing on learning more advanced C++ to better my competitive programming skills
 - Javascript
 - HTML and CSS
-- Web development with Gatsby
+- Web development with React Native, NextJS, and Astro
 
 <br />
 
@@ -59,8 +59,10 @@
 <br />
 
 ## Organizations
-- I am part of the [Ladue Computer Science Club](https://github.com/LadueCS) which is a club based in St. Louis of high school students interested in computer science
-- I am a contributor on the current [Ladue CS Website](https://github.com/LadueCS/laduecs.github.io)
+- I am part of the Ladue Computer Science Club which is a club based in St. Louis of high school students interested in computer science. 
+- I am a contributor on the current Ladue Computer Science Website
+- Part of the team that won the CALICO '22 Programming Competition
+###### All LadueCS related repos have been migrated to codeberg
 
 <!--
 
