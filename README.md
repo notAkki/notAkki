@@ -29,6 +29,7 @@
   <img alt="github" src="https://img.shields.io/badge/-Github-2e3ad2?style=flat-square&logo=github&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-7639fa?style=flat-square&logo=css3&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-9d1ced?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
 </p>
 
 ## Who Am I?
