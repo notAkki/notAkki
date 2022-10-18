@@ -61,7 +61,7 @@
 
 ## Organizations
 - I am part of the [Ladue Computer Science Club](https://github.com/LadueCS) which is a club based in St. Louis of high school students interested in computer science. 
-- I am a contributor on the current Ladue Computer Science Website
+- I am a contributor on the current [Ladue Computer Science Website](ladeucs.club)
 - Part of the team that won the CALICO '22 Programming Competition
 - Currently developing a large scale website and app for a centralized school information hub
 ###### All LadueCS related repos have been migrated to codeberg
