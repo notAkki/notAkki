@@ -6,22 +6,8 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notAkki&show_icons=true&custom_title=My+Stats)
 --->
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=notAkki&show_icons=true&custom_title=My+Stats&include_all_commits=false&line_height=20&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&icon_color=7d81ff&border_color=cfdaff"></img>
-</a>
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=240&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&border_color=cfdaff"></img>
-</a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=notAkki&show_icons=true&custom_title=My+Stats&include_all_commits=false&line_height=20&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&icon_color=7d81ff&border_color=cfdaff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notAkki&layout=compact&card_width=256&theme=tokyonight&text_color=cfdaff&title_color=5e64ff&border_color=cfdaff)
 
 <p align="left">
   <img alt="Java" src="https://img.shields.io/badge/-Java-3661ff?style=flat-square&logo=java&logoColor=white" />
