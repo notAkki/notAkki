@@ -44,5 +44,6 @@
 - More to come soon...
 
 <br />
+
 ## Awards/Honors
 - Part of the team that won the CALICO '22 Programming Competition
