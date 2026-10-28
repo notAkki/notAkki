@@ -4,7 +4,7 @@ hey, i'm akshar 👋
 
 software engineering @ university of waterloo
 
-incomih swe @ warp.dev  
+incoming swe @ warp.dev  
 prev @ bloomberg, shopify (x2), rootly, firefly, wat street
 
 building for the web, school, productivity, and whatever else i get unreasonably invested in.
